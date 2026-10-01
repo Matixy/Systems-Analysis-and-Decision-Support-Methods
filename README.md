@@ -58,24 +58,33 @@ Zaawansowane techniki ochrony modeli przed przeuczeniem oraz implementacja najpo
 ## 🚀 Jak uruchomić projekt lokalnie?
 
 1. Sklonuj repozytorium:
+
    ```bash
    git clone https://github.com/Matixy/Systems-Analysis-and-Decision-Support-Methods.git
    ```
+
 2. Przejdź do folderu z projektem:
+
    ```bash
    cd Systems-Analysis-and-Decision-Support-Methods
    ```
+
 3. Stwórz i aktywuj środowisko wirtualne (zalecane):
+
    ```bash
    python -m venv venv
    source venv/bin/activate      # Mac/Linux
    venv\Scripts\activate         # Windows
    ```
+
 4. Zainstaluj wymagane zależności:
+
    ```bash
    pip install -r requirements.txt
    ```
+
 5. Uruchom wybrane laboratoria z poziomu Jupyter Notebook:
+
    ```bash
    jupyter notebook
    ```
