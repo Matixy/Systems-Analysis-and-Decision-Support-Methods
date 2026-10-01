@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Systems Analysis and Decision Support Methods 
 *(Metody systemowe i decyzyjne)*
 
@@ -80,4 +79,3 @@ Zaawansowane techniki ochrony modeli przed przeuczeniem oraz implementacja najpo
    ```bash
    jupyter notebook
    ```
-```
